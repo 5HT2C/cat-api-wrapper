@@ -20,7 +20,7 @@ func main() {
 
 	s := &fasthttp.Server{
 		Handler:            requestHandler,
-		Name:               "srp-go",
+		Name:               "cat-api-wrapper",
 		MaxRequestBodySize: maxBodySize,
 	}
 
