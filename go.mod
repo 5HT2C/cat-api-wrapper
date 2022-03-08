@@ -1,4 +1,4 @@
-module github.com/l1ving/cat-api-wrapper
+module github.com/5HT2/cat-api-wrapper
 
 go 1.17
 
